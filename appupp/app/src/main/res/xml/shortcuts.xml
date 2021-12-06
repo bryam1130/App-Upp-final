@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--- Acceso directo 1:
+    Lanza al usuario a la Actividad Principal a través de la intención-->
+    <shortcut
+        android:enabled="true"
+        android:shortcutId="compose0"
+        android:shortcutShortLabel="@string/compose_shortcut_short_label0">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.example.app_upp.Activity4"
+            android:targetPackage="com.example.app_upp" />
+    </shortcut>
+
+    <!--- Acceso directo 2:
+   Lanza al usuario a la Actividad Principal a través de la intención-->
+    <shortcut
+        android:enabled="true"
+        android:shortcutId="compose1"
+        android:shortcutShortLabel="@string/compose_shortcut_short_label1">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.example.app_upp.Activity8"
+            android:targetPackage="com.example.app_upp" />
+    </shortcut>
+
+</shortcuts>

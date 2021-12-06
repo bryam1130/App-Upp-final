@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">APP-UPP</string>
+
+    <!--- Variables de los atajos definen la cadena que se mostrará como etiquetas de acceso
+    directo Cuando se expanda la lista de atajos. -->
+    <string name="compose_shortcut_short_label0">Boton</string>
+    <string name="compose_shortcut_short_label1">Usuario</string>
+    <!-- -->
+
+    <string name="Titulo">Terminos y Condiciones</string>
+    <string name="config">Configuracion de la APP</string>
+
+    <string name="texto1">App Up está diseñada para rastrear la ubicación donde se encuentra su celular,
+        especialmente en caso que usted se pierda y no sepa donde esté, esta aplicación tiene la capacidad de localizar su ubicación por medio de un GPS.</string>
+    <string name="texto2">También se envían notificaciones de aviso el cual podrá enviarse automáticamente a las autoridades o algunos contactos que usted haya asignado para recibir notificaciones de aviso,
+        pero para poder hacer un rastreo total de su ubicación debe aceptar los siguientes términos y condiciones.</string>
+    <string name="texto3">Usamos cookies para almacenamiento de datos,
+        para acceder y procesar datos personales del usuario por lo tanto debe aceptar las siguientes condiciones.</string>
+
+    <string name="texto4"> - ¿Permitir que App Up acceda a tus contactos?</string>
+    <string name="texto5"> - ¿Permitir que App Up acceda a su ubicación?</string>
+    <string name="texto6"> Para que nuestra aplicación ofrezca un mejor servicio debe mantener activo el GPS también para poder localizar su smartphone debe estar conectado a una red wifi o a los datos de su celular.
+</string>
+    <string name="check_terminos">Aceptar Terminos y Condiciones</string>
+    <string name="btn_aceptar">Aceptar Terminos</string>
+    <string name="btnpermiss">Permisos</string>
+    <string name="btn_modif_permiss">Modificar Permisos</string>
+</resources>
